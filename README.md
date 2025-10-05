@@ -1,4 +1,4 @@
-# Project 2 – Airline Management Hash Tables
+# Airline Management Simulation
 
 ## Contributors
 
